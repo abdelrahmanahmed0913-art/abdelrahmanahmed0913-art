@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Abdelrahman Ahmed
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Website%20Development;Modern%20Websites;Custom%20Designs&font=Fira%20Code&center=true&width=500&height=50&color=00ffcc&vCenter=true&size=24">
+</p>
 
 ## 💻 Web Developer | Custom Website Creator
 
