@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelrahman Ahmed
 
-<!--
-**abdelrahmanahmed0913-art/abdelrahmanahmed0913-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Web Developer | Custom Website Creator
 
-Here are some ideas to get you started:
+I'm a passionate web developer who creates **custom websites based on client needs**.
+I focus on building modern, fast, and responsive websites that help businesses grow online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+* 🌐 Build websites from scratch
+* 🎨 Design modern and clean UI
+* 📱 Responsive design (mobile + desktop)
+* ⚡ Optimize website performance
+* 🛠 Customize websites based on client requests
+
+---
+
+## 🧰 Technologies I Use
+
+* HTML
+* CSS
+* JavaScript
+
+
+---
+
+## 📌 My Goal
+
+My goal is to help individuals and businesses have a strong online presence with professional websites tailored to their needs.
+
+---
+
+## 📞 Contact Me
+
+* 📧 Email: pixelbuild.dev@gmail.com
+* 💬 WhatsApp: (+971 55 610 3954)
+
+
+---
+
+## ⭐ Why Choose Me?
+
+* ✔️ I listen carefully to client requirements
+* ✔️ I deliver clean and organized code
+* ✔️ I care about design and user experience
+* ✔️ I always try to deliver on time
+
+---
+
+> 💡 "Your idea + My code = A powerful website"
